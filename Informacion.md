@@ -10,3 +10,12 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
 | **Fecha de Nacimiento** | [27/01/2004]                |
 | **Signo**               | [Acuario ]                  |
 | **Idiomas**             | [Español, Inglés, Francés]  |   
+
+## Intereses
+
+- Idiomas
+- Industrias creativas (moda, cine, fotografia)
+- Finanzas
+- Tecnología
+- Emprendimiento
+
