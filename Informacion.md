@@ -6,10 +6,10 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
 ## Detalles Personales
 | **Campo**               | **Información**             |
 |-------------------------|-----------------------------|
-| **Nombre Completo**     | [Frida Hernández Rodríguez] |
-| **Fecha de Nacimiento** | [27/01/2004]                |
-| **Signo**               | [Acuario ]                  |
-| **Idiomas**             | [Español, Inglés, Francés]  |   
+| **Nombre Completo**     | Frida Hernández Rodríguez   |
+| **Fecha de Nacimiento** | 27/01/2004                  |
+| **Signo**               | Acuario                     |
+| **Idiomas**             | Español, Inglés, Francés    |   
 
 ## Intereses
 - Idiomas
@@ -19,34 +19,34 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
 - Emprendimiento
 
 ## Experiencia Profesional
-### [KRONES]
-- **Rol:** [Purchasing Analyst Jr.]
-- **Duración:** [Junio 2024] - [actualidad]
+### KRONES
+- **Rol:** Purchasing Analyst Jr.
+- **Duración:** Junio 2024 - actualidad
 - **Descripción:** 
-  - [Negociación con proveedores]
-  - [Licitaciones y comparativas]
-  - [Gestión de proyectos con proveedores extranjeros]
+  - Negociación con proveedores
+  - Licitaciones y comparativas
+  - Gestión de proyectos con proveedores extranjeros
 
-  ### [OviCare]
-- **Rol:** [Chief Creative Officer]
-- **Duración:** [Enero 2023] - [actualidad]
+  ### OviCare
+- **Rol:** Chief Creative Officer
+- **Duración:** Enero 2023 - actualidad
 - **Descripción:** 
-  - [Definir y dirigir la visión cretiva de la marca]
-  - [Supervisar la comunicacion visual y verbal del producto]
-  - [Asegurar la coherencia estetica y conceptual de la marca]
+  - Definir y dirigir la visión cretiva de la marca
+  - Supervisar la comunicacion visual y verbal del producto
+  - Asegurar la coherencia estetica y conceptual de la marca
 
  ## Cosas Favoritas
-- [Los arboles]
-- [Otoño]
-- [Mis amigas] 
-- [Lucha De Gigantes]
-- [Jazz]
-- [Vino]
-- [Café en todas sus versiones]
-- [Bella Hadid]
-- [Orgullo y Prejuicio]
-- [Aguachile]
-- [Schnauzers]
+- Los arboles
+- Otoño
+- Mis amigas 
+- Lucha De Gigantes
+- Jazz
+- Vino
+- Café en todas sus versiones
+- Bella Hadid
+- Orgullo y Prejuicio
+- Aguachile
+- Schnauzers
 (![Fotito](https://cdn05.zipify.com/kxfpaFg9oAzVjfRfsnDIBsVZnec=/fit-in/3840x0/8722dbdadf0146dc8f540212d2796b69/pot013-blog-hero-horizontal.jpeg))
 
 ## Contacto
