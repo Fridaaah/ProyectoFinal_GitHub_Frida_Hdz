@@ -14,5 +14,11 @@ Cada uno de estos proyectos representa un paso importante en mi desarrollo profe
 - **Descripción:** Diseñar un catalogo de proveedores creando su taxonomía y asignandoles una categoria, subcategoria, Unidad de Negocio y contactos.
 - **Mayor reto:**
   - Crear la taxonomía de proveedores nacionales e internacionales debido a su diversidad.
-- **Fecha:** Enero 2025 - Abril 2025
+- **Fecha:** Enero 2025 - actualidad
+
+## 2. EcoWave Distributors 
+- **Descripción:** Distribuidor de platos 100% biodegradables hechos a base de cascara de papa.
+- **Mayor reto:**
+  - Traer los productos de Argentina a México.
+- **Fecha:** Enero 2024 - Diciembre 2024
 
