@@ -12,10 +12,26 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
 | **Idiomas**             | [Español, Inglés, Francés]  |   
 
 ## Intereses
-
 - Idiomas
 - Industrias creativas (moda, cine, fotografia)
-- Finanzas
+- Fintech
 - Tecnología
 - Emprendimiento
 
+## Experiencia Profesional
+### [KRONES]
+- **Rol:** [Purchasing Analyst Jr.]
+- **Duración:** [Junio 2024] - [actualidad]
+- **Descripción:** 
+  - [Negociación con proveedores]
+  - [Licitaciones y comparativas]
+  - [Gestión de proyectos con proveedores extranjeros]
+
+  ### [OviCare]
+- **Rol:** [Chief Creative Officer]
+- **Duración:** [Enero 2023] - [actualidad]
+- **Descripción:** 
+  - [Definir y dirigir la visión cretiva de la marca]
+  - [Supervisar la comunicacion visual y verbal del producto]
+  - [Asegurar la coherencia estetica y conceptual de la marca]
+  
