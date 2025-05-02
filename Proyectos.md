@@ -1,0 +1,11 @@
+# Proyectos en los que he participado
+
+Cada uno de estos proyectos representa un paso importante en mi desarrollo profesional y personal.
+
+---
+
+## 1. OviCare
+- **Descripción:** OviCare es un tratamiento alternativo a los anticonceptivos para el Síndrome de Ovario Poliquistivo (SOP).
+- **Mayor reto:**
+  - Formulación química del producto que combina más de 11 ingredientes en un solo producto.
+- **Fecha:** Enero 2023 - actualidad
