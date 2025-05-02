@@ -16,9 +16,15 @@ Cada uno de estos proyectos representa un paso importante en mi desarrollo profe
   - Crear la taxonomía de proveedores nacionales e internacionales debido a su diversidad.
 - **Fecha:** Enero 2025 - actualidad
 
-## 2. EcoWave Distributors 
+## 3. EcoWave Distributors 
 - **Descripción:** Distribuidor de platos 100% biodegradables hechos a base de cascara de papa.
 - **Mayor reto:**
   - Traer los productos de Argentina a México.
 - **Fecha:** Enero 2024 - Diciembre 2024
+
+## 4. NovaShop 
+- **Descripción:** Tienda online que vende experiencia de compra única en productos de papeleria y oficina.
+- **Mayor reto:**
+  - Crear valor agregado al vender los productos. 
+- **Fecha:** Febrero 2023 - Diciembre 2023
 
