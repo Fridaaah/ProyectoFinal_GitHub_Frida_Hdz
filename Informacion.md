@@ -44,6 +44,7 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
 - [Vino]
 - [Café en todas sus versiones]
 - [Bella Hadid]
-- [Schnauzers]
 - [Orgullo y Prejuicio]
 - [Aguachile]
+- [Schnauzers]
+(![Fotito](https://cdn05.zipify.com/kxfpaFg9oAzVjfRfsnDIBsVZnec=/fit-in/3840x0/8722dbdadf0146dc8f540212d2796b69/pot013-blog-hero-horizontal.jpeg))
