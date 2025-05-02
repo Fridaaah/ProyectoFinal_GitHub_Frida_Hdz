@@ -34,4 +34,16 @@ Hola hola, mi nombre es **Frida Hernández**. Soy estudiante de la Licenciatura 
   - [Definir y dirigir la visión cretiva de la marca]
   - [Supervisar la comunicacion visual y verbal del producto]
   - [Asegurar la coherencia estetica y conceptual de la marca]
-  
+
+ ## Cosas Favoritas
+- [Los arboles]
+- [Otoño]
+- [Mis amigas] 
+- [Lucha De Gigantes]
+- [Jazz]
+- [Vino]
+- [Café en todas sus versiones]
+- [Bella Hadid]
+- [Schnauzers]
+- [Orgullo y Prejuicio]
+- [Aguachile]
