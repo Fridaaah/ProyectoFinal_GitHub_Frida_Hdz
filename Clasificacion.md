@@ -10,3 +10,7 @@ Hola hola, estas son mis 6 películas favoritas.
 | 4     | BLACK SWAN (2010)   | ![BlackSwan](https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2893777/5958907/MOVCB83563__34494.1679602412.jpg?c=2)        | Darren Aronofsky | Simplemente siento que es la historia de mi vida jaja, y el final se me hace trágico pero a la vez perfecto.      | 
 | 5     | LA LA LAND (2017)      | ![Lalaland](https://www.autograph-gallery.com/cdn/shop/products/57_1e0563e2-ce3d-4ee4-b255-9e54fb2a1003_740x.jpg?v=1578308850)        | Damien Chazelle | Todo de esta pelicula es increible, la imagen, el soundtrack, la storyline, las coreografías. Mis ojos, oídos y cerebro alcanzan niveles de éxtasis nunca antes experimentados.       | 
 | 6     | CHALLENGERS (2024)      | ![Challengers](https://musicart.xboxlive.com/7/2bab6a00-0000-0000-0000-000000000002/504/image.jpg?q=90&m=6&h=270&w=270&b=%23FFFFFFFF&f=jpg&o=f&aim=true)      | Luca Guadagnino | Con esta peli descubrí lo que quiero y lo que no quiero en mi vida y tiene la mejor sincronia audiovisual que he visto,  el montaje y ritmo narrativo me super enganchó. |
+
+
+1. **Vale**: Orgullo y Prejuicio es mi favorita.Te recomiendo ver la versión zombie tiene igual su toque.Me gustaría ver tu letterbox
+
