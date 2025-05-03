@@ -4,19 +4,19 @@ Cada uno de estos proyectos representa un paso importante en mi desarrollo profe
 
 ---
 
-## 1. OviCare - UNAM
-- **Descripción:** OviCare es un tratamiento alternativo a los anticonceptivos para el Síndrome de Ovario Poliquistivo (SOP).
-- **Rol:** Chief Creative Officer (CCO)
-- **Mayor reto:**
-  - Formulación química del producto que combina más de 11 ingredientes en un solo producto.
-- **Fecha:** Enero 2023 - actualidad
-
-## 2. Catálogo de proveedores - KRONES
+## 1. Catálogo de proveedores - KRONES
 - **Descripción:** Diseñar un catalogo de proveedores creando su taxonomía y asignandoles una categoria, subcategoria, Unidad de Negocio y contactos.
 - **Rol:** Diseñadora del catálogo.
 - **Mayor reto:**
   - Crear la taxonomía de proveedores nacionales e internacionales debido a su diversidad.
 - **Fecha:** Enero 2025 - actualidad
+
+## 2. OviCare - UNAM
+- **Descripción:** OviCare es un tratamiento alternativo a los anticonceptivos para el Síndrome de Ovario Poliquistivo (SOP).
+- **Rol:** Chief Creative Officer (CCO)
+- **Mayor reto:**
+  - Formulación química del producto que combina más de 11 ingredientes en un solo producto.
+- **Fecha:** Enero 2023 - actualidad
 
 ## 3. EcoWave Distributors - UNAM
 - **Descripción:** Distribuidor de platos 100% biodegradables hechos a base de cascara de papa.
